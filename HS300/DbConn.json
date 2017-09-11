@@ -1,0 +1,6 @@
+{
+"MysqlIp":"127.0.0.1",
+"MySqlDB":"SH300",
+"MySqlUser":"root",
+"MysqlPwd":"passw0rd"
+}
